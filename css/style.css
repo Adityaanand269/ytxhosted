@@ -428,7 +428,7 @@ h6,
 
 .portfolio-item .portfolio-overlay {
     position: absolute;
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: center;
     width: 100%;
